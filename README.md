@@ -1,4 +1,4 @@
-# TA Solver
+# Chirper
 
 This is one of the final problems of the online course ["How to Code: Complex Data"](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) by Gregor Kiczales (University of British Columbia).
 
